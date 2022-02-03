@@ -39,4 +39,4 @@
 * Delete Song
 
 ## Note ⚠️
-* If you have any queries do let me know in the **Discussions**
+* If you have any queries do let me know in the issues section by raising a new issue
