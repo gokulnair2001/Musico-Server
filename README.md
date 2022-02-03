@@ -1,6 +1,7 @@
 # Musico Server
-* Musico Server is a Swift based backend used to power [Musico](https://github.com/gokulnair2001/Musico) app. 
+* Musico Server is a Swift based backend which powers [Musico](https://github.com/gokulnair2001/Musico) app. 
 * The backend is purely written using Swift.
+* So if you are keen to learn Server Side Swift do check the repo ⭐️
 
 ## Frameworks ⚙️
 
